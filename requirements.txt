@@ -1,6 +1,6 @@
 Flask==2.3.2  # o la última versión compatible
 Werkzeug==2.3.4  # o la última versión compatible
 opencv-python==4.5.5.62
-mediapipe==0.9.1.0
+mediapipe==0.10.18
 pandas==1.5.3
 numpy==1.24.4
